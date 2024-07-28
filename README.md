@@ -20,3 +20,5 @@ Easily download private videos from any Telegram group or channel with just one 
 6. Download Private Videos
    - Open Telegram in your web browser, navigate to the video you wish to download, and download it directly.
    - ![image](https://github.com/user-attachments/assets/d116b0b5-05b8-4bfa-81cc-7606c30ad66b)
+     
+Please ensure that your use of this tool complies with Telegram's terms of service and respects the privacy and rights of content creators.
