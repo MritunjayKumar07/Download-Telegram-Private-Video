@@ -17,8 +17,15 @@ Easily download private videos from any Telegram group or channel with just one 
 5. Install the Script
    - Drag and drop the downloaded script into the Tampermonkey dashboard and click "Install" or "Reinstall."
    - ![DRAG and DROP](https://github.com/user-attachments/assets/da2168f0-c5eb-465d-8cc3-01faf998bd1f)
-6. Download Private Videos
+6. On Developer mode: 
+   - Go to chrome setting 
+   - Next go to Chrome extension
+   - Top-Right corner side one checkbox is ther on it.
+   - ![image](https://github.com/user-attachments/assets/bf1898d0-295f-4ff4-8a58-547770288634)
+7. Download Private Videos
    - Open Telegram in your web browser, navigate to the video you wish to download, and download it directly.
    - ![image](https://github.com/user-attachments/assets/d116b0b5-05b8-4bfa-81cc-7606c30ad66b)
+
+**`NOTE`**: Make suore only one video download at a time & not close the browser.
      
 Please ensure that your use of this tool complies with Telegram's terms of service and respects the privacy and rights of content creators.
